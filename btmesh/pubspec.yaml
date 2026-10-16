@@ -1,0 +1,6 @@
+name: btmesh
+description: Núcleo de um chat em malha (mesh) sobre Bluetooth, sem internet.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  cryptography: ^2.7.0
